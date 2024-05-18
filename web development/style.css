@@ -1,0 +1,48 @@
+
+body{
+	background-color: #7FE682;
+	font-family: Helvetica;
+	color: #011701; 
+}
+
+h1{
+	color: #38366F;
+	font-size: 50px;
+	text-align: center;
+}
+
+ul{
+	width: 900px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+li a{
+	color: #54366F;
+	text-decoration: none;
+}
+
+li{
+	list-style: none;
+	display: inline;
+	margin-left: 30px;
+}
+
+span {
+	text-align: center;
+}
+
+span img{
+	margin-bottom: 20px;
+}
+
+p{
+	font-size: 18px; 
+	margin: 15pt;
+	line-height: 35px;
+	text-align: center;
+}
+
+div{
+	width:500px;
+	margin: 20px auto;
+}
